@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "email": "thiago@email.com",
+      "password": "$2a$10$G0cYDVRVvKUpNlHXgyUZx.5AHA.Vr3Vj31YD5.9537dL1Xcsac7nC",
+      "nome": "Thiago",
+      "id": 1
+    },
+    {
+      "email": "je@email.com",
+      "password": "$2a$10$/MEcGB2gw66CX0R/IY66XuXSvMK6EhLlC5rpNclq4.xyS4nvymrK2",
+      "nome": "Jessica",
+      "id": 2
+    },
+    {
+      "email": "je@email.com",
+      "password": "batatinha",
+      "name": "Jessica",
+      "id": 3
+    }
+  ],
+  "noticias": [
+    {
+      "id": 1,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Avaí subiu para a série A",
+      "descricao": "Avaí subiu para a série A do campeonato brasileiro"
+    },
+    {
+      "imagem": "assets/img/canids.png",
+      "titulo": "Black Friday derrubou o preco do Disco de Freio",
+      "descricao": "Black Friday vende pela metade do dobro, o Disco de Freio",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Black Friday derruba o preco do Disco de Freio",
+      "descricao": "Black Friday vende pela metade do dobro, o Disco de Freio"
+    },
+    {
+      "id": 5,
+      "imagem": "assets/img/canids.png",
+      "titulo": "Black Friday derruba o preco do Disco de Freio",
+      "descricao": "Black Friday vende pela metade do dobro, o Disco de Freio"
+    },
+    {
+      "id": 6,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Black Friday derruba o preco do Disco de Freio",
+      "descricao": "Black Friday vende pela metade do dobro, o Disco de Freio"
+    },
+    {
+      "imagem": "",
+      "titulo": "Não gosto de tema claro",
+      "descricao": "realmente, mudei para o escuro",
+      "id": 7
+    }
+  ]
+}
